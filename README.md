@@ -3,7 +3,7 @@
 Hi, I'm Michal! I'm a software engineer who is passionate about making machine learning more accessible for everyone. I co-founded <a href="https://ximilar.com">Ximilar.com</a> company which is focused on AI/ML/Computer Vision.
 
 - 🐍 I love to code and love Python!
-- 📟 I’m currently building my dream project 'Ximilar.com' platform
+- 📟 I’m currently working on 'Ximilar.com' platform
 - 🌱 We support <a href="https://github.com/ximilar-com">open-source</a> by publishing AI/ML projects
 - 🔭 I believe in transparent entrepreneurship and that small consistent steps in life creates great value
 - 💬 I'm posting on <a href="https://medium.com/@michallukac">medium</a> about Machine Learning and Artificial Intelligence
