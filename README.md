@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋😄
+
+Hi, I'm Michal! I'm a software engineer who is passionate about making machine learning more accessible for everyone. I co-founded <a href="https://ximilar.com">Ximilar.com</a> company which is focused on AI/ML/Computer Vision.
+
+- I love Python! 🐍
+- I’m currently working on Ximilar.com platform 📟
+- We are also <a href="https://github.com/ximilar-com">supporting open-source</a> community with publishing ml projects!🌱
+- I'm posting on <a href="https://medium.com/@michallukac">medium</a> about Machine Learning and Artificial Intelligence 💬
+- How to reach me: <a href="https://www.linkedin.com/in/michal-lukac-77049b15/"> on my LinkedIn account</a>  📫
 
 <!--
 **Cospel/Cospel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
