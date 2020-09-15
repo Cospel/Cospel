@@ -7,7 +7,7 @@ Hi, I'm Michal! I'm a software engineer who is passionate about making machine l
 - 🌱 We support <a href="https://github.com/ximilar-com">open-source</a> by publishing AI/ML projects
 - 🔭 I believe in transparent entrepreneurship and that small consistent steps in life creates great value
 - 💬 I'm posting on <a href="https://medium.com/@michallukac">medium</a> about Machine Learning and Artificial Intelligence
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/michal-lukac-77049b15/"> on my LinkedIn account</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/michal-lukac-77049b15/"> on my LinkedIn account</a> or <a href="https://twitter.com/LukMajkl">Twitter</a> 
 
 <!--
 **Cospel/Cospel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
